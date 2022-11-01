@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My WordPress	</title>
-	<atom:link href="http://localhost/myproject/wordpress/index.php/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://nguyenquan83.github.io/baikiemtra</link>
+	Các phản hồi luận về: Hello world!	</title>
+	<atom:link href="http://localhost/myproject/wordpress/index.php/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyenquan83.github.io/baikiemtra/index.php/hello-world/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 14 Sep 2022 09:05:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>
-		Phản hồi cho Hello world! bởi A WordPress Commenter		</title>
+		Bởi: A WordPress Commenter		</title>
 		<link>https://nguyenquan83.github.io/baikiemtra/index.php/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
